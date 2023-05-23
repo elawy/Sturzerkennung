@@ -2,7 +2,7 @@
 # Author:       Miriam Nold
 # Project:      Demoanwendung des Sturzerkennungssystems
 # Description:  In this code an MQTT publisher is generated when a
-#				threshold value in height difference is recognized
+#		threshold value in height difference is recognized
 
 import MySQLdb
 import paho.mqtt.client as mqtt
